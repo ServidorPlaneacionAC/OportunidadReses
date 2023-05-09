@@ -1,5 +1,5 @@
 # import pandas as pd
-# import streamlit as st
+import streamlit as st
 # from logicas import calcular_beneficio_integracion
 # from GuardarResultados import guardar
 
